@@ -126,6 +126,7 @@ imap <buffer> <LocalLeader>inf ∞
 imap <buffer> <LocalLeader>int ∫
 imap <buffer> <LocalLeader>intersect ∩
 imap <buffer> <LocalLeader>iso ≅
+imap <buffer> <LocalLeader>apeq ≃
 imap <buffer> <LocalLeader>join ⋈
 imap <buffer> <LocalLeader>land ∧
 imap <buffer> <LocalLeader>langle ⟨
@@ -543,6 +544,7 @@ cmap <buffer> <LocalLeader>inf ∞
 cmap <buffer> <LocalLeader>int ∫
 cmap <buffer> <LocalLeader>intersect ∩
 cmap <buffer> <LocalLeader>iso ≅
+cmap <buffer> <LocalLeader>apeq ≃
 cmap <buffer> <LocalLeader>join ⋈
 cmap <buffer> <LocalLeader>land ∧
 cmap <buffer> <LocalLeader>langle ⟨
