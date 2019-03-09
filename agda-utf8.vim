@@ -60,6 +60,9 @@ imap <buffer> <LocalLeader>:: ∷
 imap <buffer> <LocalLeader>;  ﹔
 imap <buffer> <LocalLeader>.. ‥
 imap <buffer> <LocalLeader>=? ≟
+imap <buffer> <LocalLeader>minusdot ∸
+imap <buffer> <LocalLeader>-dot ∸
+imap <buffer> <LocalLeader>-. ∸
 imap <buffer> <LocalLeader>all ∀
 imap <buffer> <LocalLeader>always □
 imap <buffer> <LocalLeader>approx ≈
@@ -474,6 +477,9 @@ cmap <buffer> <LocalLeader>:: ∷
 cmap <buffer> <LocalLeader>;  ﹔
 cmap <buffer> <LocalLeader>.. ‥
 cmap <buffer> <LocalLeader>=? ≟
+cmap <buffer> <LocalLeader>minusdot ∸
+cmap <buffer> <LocalLeader>-dot ∸
+cmap <buffer> <LocalLeader>-. ∸
 cmap <buffer> <LocalLeader>all ∀
 cmap <buffer> <LocalLeader>always □
 cmap <buffer> <LocalLeader>approx ≈
